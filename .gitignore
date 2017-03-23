@@ -1,0 +1,9 @@
+.idea
+node_modules
+output
+*.so
+app-basic.js
+app-image.js
+app-stream.js
+config.js
+.DS_Store
