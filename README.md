@@ -1,7 +1,7 @@
 #  Pdf from Oracle LOB
 How to do it using node!
  
-##Getting Started
+## Getting Started
 
 First download and install any oracle drivers, headers, etc. anything you need to connect to oracle
 
@@ -21,7 +21,7 @@ Then run
     npm install 
     node lobtopdf.js
     
-##Notes
+## Notes
 
 *This requires that we make an image conversion from GIF to JPEG. lobtopdf.js makes use of Promise.delay to ensure that 
 the images are fully written and converted before adding them to a pdf. The delay is currently set to 
